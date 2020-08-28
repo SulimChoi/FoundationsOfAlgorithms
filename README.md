@@ -5,4 +5,6 @@
 
 ## 목차
 
-1. [알고리즘: 효율성, 분석, 차수](./notebooks/pdfs/Algo-01-AlgorithmsIntro.pdf)
+1. 알고리즘: 효율성, 분석, 차수 
+    [pdf](./notebooks/pdfs/Algo-01-AlgorithmsIntro.pdf) 
+    [ipynb](./notebooks/Algo-01-AlgorithmsIntro.ipynb) 
